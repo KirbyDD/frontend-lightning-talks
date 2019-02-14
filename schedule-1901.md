@@ -52,6 +52,7 @@
 28. Take your `git` foo to the next level
 29. Jacob Bogart: Algorithms or die - top algorithms programmers should know
 30. Melissa - Hacking the FE interview
+31. De'Marcus - DDoS attacks
 ```
 
 ---
